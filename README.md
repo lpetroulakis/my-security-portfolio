@@ -2,7 +2,7 @@
 
 # My security portfolio
 
-This whole project aims to keep the protocols I have scurity reviewed by myself or by the piloting of Cyfrin's Patrick Collins. 
+This whole project aims to keep the protocols I have security-reviewed by myself or, initially, by the piloting of Cyfrin's Patrick Collins. 
 
 ## Security Reviews
 
